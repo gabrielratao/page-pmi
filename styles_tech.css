@@ -1,4 +1,9 @@
-
+body {
+    max-width: 100%;
+    overflow-x: hidden; 
+    margin: 0 auto; 
+    padding: 10px;
+} 
 a{
     text-decoration: none;
 }
