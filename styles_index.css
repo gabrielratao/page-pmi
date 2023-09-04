@@ -9,3 +9,25 @@ body {
 a{
     text-decoration: none;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+    opacity: 80%;
+  }
+
+
+h1 {
+    display: block;
+    text-align: center;
+}
+
+p {
+    display: block;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;   
+}
